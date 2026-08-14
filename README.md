@@ -1,5 +1,9 @@
 # Guia rapida para Ruby
 
+## Some sites to learn 
+
+https://rubyguides.dev/
+
 ## Variables
 
 ### Variables locales
